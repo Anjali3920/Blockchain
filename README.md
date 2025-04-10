@@ -27,5 +27,11 @@ Interacting with other contracts, building UIs with Web3.js, NFTs, and more.
 11.    ./network.sh createChannel
 12.    ./network.sh down
 
+![Image](https://github.com/user-attachments/assets/8927fc4a-b64e-4f09-9352-5e960e336b2d)
+
+# METAMASK 
+![Image](https://github.com/user-attachments/assets/fcb4baea-6ee6-4ab0-8796-475348469140)
+
+# IPFS INSTALLATION STEPS-
 
 
