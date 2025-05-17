@@ -29,6 +29,9 @@ Interacting with other contracts, building UIs with Web3.js, NFTs, and more.
 
 ![Image](https://github.com/user-attachments/assets/8927fc4a-b64e-4f09-9352-5e960e336b2d)
 
+![Image](https://github.com/user-attachments/assets/56af3bb5-17de-4035-b4d8-06658d5d7eb2)
+
+![Image](https://github.com/user-attachments/assets/a6c4cbba-190d-4a4f-8579-293aa1d16279)
 # METAMASK 
 ![Image](https://github.com/user-attachments/assets/fcb4baea-6ee6-4ab0-8796-475348469140)
 
