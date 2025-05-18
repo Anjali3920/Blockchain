@@ -42,3 +42,6 @@ Interacting with other contracts, building UIs with Web3.js, NFTs, and more.
 ![Image](https://github.com/user-attachments/assets/b67b025e-0411-48a7-b10b-73231da16638)
 
 ![Image](https://github.com/user-attachments/assets/5943351f-3d0e-44e4-a0f1-179fe5ca4a59)
+## deploying the  smart contracts
+
+![image](https://github.com/user-attachments/assets/e0a4029a-be6d-4609-92b5-70e3c04f1ddf)
