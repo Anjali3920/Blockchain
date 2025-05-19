@@ -25,6 +25,7 @@
 ## PRACTICAL 4
 ### Write a contract where people can donate Ether and the top 3 donors are tracked.
 ![image](https://github.com/user-attachments/assets/f5ec615e-9693-49a9-ad6f-0ef400788c25)
+![image](https://github.com/user-attachments/assets/80a7881e-ce38-4d03-8803-1290f64834d3)
 
 ## PRACTICAL5
 ### Implement a simple auction system where users can place bids, and the highest bidder wins.
